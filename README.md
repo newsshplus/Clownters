@@ -20,7 +20,8 @@
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install -y git
-git clone git@github.com:cookieukw/Clownters.git
+git clone git@github.com:newsshplus/Clownters.git
+original (git clone git@github.com:cookieukw/Clownters.git)
 cd Clownters
 bash start.sh
 ``` 
